@@ -20,7 +20,7 @@
         {
           "type": "git",
           "url": "https://github.com/sp1ritCS/flat-remix-gtk.git",
-	  "commit": "b3f6b2c"
+	  "commit": "d33d8add16dc7235b271c03cb0ada788be97a6a1"
         }
       ]
     },
